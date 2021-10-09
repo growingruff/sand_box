@@ -1,0 +1,16 @@
+Some notes for working with Python
+
+Setting up virtual environments:
+- Navigate to the project directory where you want the environment to be created
+- Input to command:
+    python -m venv 'name of environment'
+- Activite the environment:
+    'name of environment'\Scripts\activate
+- Deactivate the environment:
+    'deactivate'
+
+
+requests library
+flask library
+matplot library
+CoolProp library
