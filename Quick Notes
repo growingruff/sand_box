@@ -19,3 +19,5 @@ Setting up Jupyter with the environment:
 - Activate the desired environment and install the following libraries:
     ipykernel
     notebook
+- 'shift + ctrl + p' > Python: Select Interpreter > '+ Enter interpreter path...'
+    Navigate to the python.exe file for the respective virtual environment you want to use
