@@ -14,3 +14,8 @@ requests library
 flask library
 matplot library
 CoolProp library
+
+Setting up Jupyter with the environment:
+- Activate the desired environment and install the following libraries:
+    ipykernel
+    notebook
